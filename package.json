@@ -1,0 +1,26 @@
+{
+    "name": "timestamp-microservice-freecodecamp",
+    "version": "0.0.1",
+    "description": "A Timestamp Microservice done at FreeCodeCamp",
+    "main": "server.js",
+    "author": "Pedro Henrique Bruning de Oliveira Schier",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "dotenv": "^8.2.0",
+        "express": "^4.12.4"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pedrobruning/timestamp-microservice.git"
+    },
+    "keywords": [
+        "node",
+        "pedroBruning",
+        "express",
+        "freecodecamp",
+        "microservice"
+    ],
+    "license": "MIT"
+}
